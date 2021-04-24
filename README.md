@@ -60,3 +60,5 @@ I love to learn, create, and think about how technology will impact our future. 
 - 😄 Pronouns: ...
 -->
 
+<!-- How to make a cool GitHub landing page: https://catalins.tech/how-to-create-a-kickass-github-profile-page -->
+
