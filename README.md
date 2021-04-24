@@ -4,7 +4,9 @@ Hi there 👋
 
 <!--**jordan-pierre/jordan-pierre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-I'm Jordan Pierre -- a Data & Analytics Consultant with experience as a Python Developer, Data Scientist, Data Science Implementation Specialist, and Data Engineer.
+I'm **Jordan Pierre** -- a Data & Analytics Consultant with experience as a Python Developer, Data Scientist, Data Science Implementation Specialist, and Data Engineer.  
+
+I love to learn, create, and think about how technology will impact our future.  I'm currently moving all my notes from Google Keep into a public space on my personal website, which you can find [here](jordan-pierre.github.io).
 
 
 🔭 I’m currently working on ...
