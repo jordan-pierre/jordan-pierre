@@ -6,12 +6,12 @@ Hi there 👋
 
 I'm **Jordan Pierre** -- a Data & Analytics Consultant with experience as a Python Developer, Data Scientist, Data Science Implementation Specialist, and Data Engineer.  
 
-I love to learn, create, and think about how technology will impact our future.  I'm currently moving all my notes from Google Keep into a public space on my personal website, which you can find [here](jordan-pierre.github.io).
+I love to learn, create, and think about how technology will impact our future.  I'm currently moving all my notes from Google Keep into a public space on my personal website, which you can find [here](https://jordan-pierre.github.io/).
 
 
 🔭 I’m currently working on ...
 --- 
-- Building my [personal website](jordan-pierre.github.io).
+- Building my [personal website](https://jordan-pierre.github.io/).
 - Building an ML Engineering porfolio.
 - Reading [Python Pocket Reference](https://www.oreilly.com/library/view/python-pocket-reference/9781449357009/) cover-to-cover.
 
