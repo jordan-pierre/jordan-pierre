@@ -11,15 +11,14 @@ I love to learn, create, and think about how technology will impact our future. 
 
 🔭 I’m currently working on ...
 --- 
-- Building my [personal website](https://jordan-pierre.github.io/).
-- Building an ML Engineering porfolio.
-- Reading [Python Pocket Reference](https://www.oreilly.com/library/view/python-pocket-reference/9781449357009/) cover-to-cover.
+- Building my [personal website](https://jordan-pierre.github.io/)
+- Founder.University start-up course and building an MVP
+- Other side/demo projects
 
 🌱 I’m currently learning ...
 --- 
-- Deep Learning
-- Implementing Machine Learning Algorithms in Python3
-- ML Ops
+- Software design & architecture
+- Building machine learning applications
 
 💻 Programming Knowledge
 --- 
@@ -35,7 +34,7 @@ I love to learn, create, and think about how technology will impact our future. 
 👯 I’m looking to collaborate on ...
 --- 
 - AI / ML projects
-- Web scraping projects
+- Data aggregation & API projects
 
 🤔 I’m looking for help with ...
 --- 
